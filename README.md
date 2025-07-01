@@ -1,5 +1,6 @@
-This was just a project for Windows LAPS since default GUI worked only with Microsoft LAPS 
-Both normal and DarkMode with slightly better UI 
+This was just a project using windows forms for Windows LAPS since default GUI works only with Microsoft LAPS 
+
+Both normal and something noone has asked for - Dark Mode (DM with slightly better UI) 
 
 Basic Functions: 
 1. auto copy to clipboard after submitting PC name
